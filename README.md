@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
--->- 🌱 I’m currently learning python, go
+-->
+- 🌱 I’m currently learning python, go
 - 💬 Ask me about anything, if i can, ill help ya
 - 📫 How to reach me: just do my exercises and get the practice!
 - 😄 Pronouns: he/him
